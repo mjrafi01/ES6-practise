@@ -9,7 +9,7 @@ console.log(gfName,age,salary);
 const complexObject={
     name:'abd',
     info:{
-        address:'kola bagan'
+        address:'kola bagan',
         leader:'tiger bhai'
     }
 }
